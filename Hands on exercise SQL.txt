@@ -1,0 +1,39 @@
+			Hands on exercise
+
+		1.Create a table Employee with following columns
+		employeeID 
+		name 
+		salary
+		departmentID
+
+		2.Create a table Department with following columns
+		departmentID
+		name
+
+		3.Insert following 5 records Department table
+		1 HR
+		2 Finance
+		3 Projects
+		4 Admin
+		5 Marketing
+
+		4.Insert follwing records in Employee table
+
+		300 Kumar 10000 1
+		301 Krishna 20000 1
+		303 Jai 25000 1
+
+		5.In the same way insert few records in Employee table for each department
+
+		6.Update few records to update salary in Employee table
+
+		5.Select all employees whose salary is greater than 20000
+
+		6.Delete employee whose name is Jai
+
+		7.Pratice inner join, left join and outer join
+
+		8.Use sub query to display employees whose salary is greater 
+		than maximum salary of the HR employees.
+		9.Use count function to display the number of records in each table.
+		10 Finally drop tables using drop command.
